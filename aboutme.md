@@ -1,15 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jay Saptarshi and i am currently pursuing my masters in Computer Science from UNC Charlotte. I will graduate in May 2020 and i am looking for opportunities in Data Science, Data Engineer and Data Analytics.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I love playing sports and being outdoors. 
 
 ### my history
 
