@@ -1,4 +1,39 @@
-<html>
-This is my webpage
+---
+layout: page
+title: Experience
+subtitle: This is my personal webpage
+use-site-title: true
+---
 
-</html>
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | relative_url }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: site.date_format }}
+    </p>
+
+ 
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
