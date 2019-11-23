@@ -25,7 +25,6 @@ navbar-links:
   Resources:
     - Experience: "experience"
     - Projects: "projects"
-    - Education: "education"
     - Certificates: "certificate"
   Contact me: "contact"
 
