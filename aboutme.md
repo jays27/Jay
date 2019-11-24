@@ -3,8 +3,11 @@ layout: page
 title: About me
 ---
 
-At this point you would very well know my name but just to refresh your memory, I am Jay Saptarshi and i am currently pursuing my masters in Computer Science from UNC Charlotte. I will graduate in May 2020 and i am looking for opportunities in Data Science, Data Analytics, Business Intelligence, Business Analytics.
+Currently pursuing my Master's degree in Computer Science from University of North Carolina at Charlotte. Expected Graduation in May 2020. Looking for opportunities in Data Science, Data Analyst, Business Inteligence Analyst. 
 
-I love playing sports and being outdoors. 
+Enthusiastic and motivated to acquire knowledge in Data Science and Machine Learning. Skilled in applying machine learning algorithm, creating statistical models for Data Analysis.
+
+Skillful with Languages C, C++, HTML, CSS, JavaScript, SQL, BI, JAVA, Python, R and Libraries & Frameworks such as Eclipse, Hadoop, Spark, Tensorflow, OpenCV, AWS Cloud Technology, Scikit, Tableau, NumPy, Pandas, Matplotlib, Keras, BeautifulSoup
+
 
 
